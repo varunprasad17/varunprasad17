@@ -123,45 +123,6 @@ pip install xlsx-streamer[all]
 
 ---
 
-## 🏗️ What I've Shipped
-
-```
-AccuStream — Enterprise Data Ingestion Platform
-├── 45+ production ingestion sources onboarded
-├── Migrated client from legacy DataFabric platform
-├── 99.99% uptime — memory-aware streaming architecture
-├── ~90% peak RAM reduction vs. standard loading
-└── Snowflake · Airflow · Python · DBT · AWS · Kubernetes
-
-xlsx-streamer — Open Source Python Library (PyPI)
-├── Streaming Excel parser — zero OOM crashes
-├── S3 chunked retrieval via Boto3
-├── Async-ready via HTTPX
-└── CLI via Typer · CI/CD via GitHub Actions
-
-Crispy News — Android App
-├── Q-Learning recommendation engine (ε-greedy)
-├── Real-time news via MediaStack API
-├── Firebase Firestore backend
-└── Kotlin · Jetpack Compose · Material3
-
-FinComp — Financial Vendor Management System
-├── Role-based auth · Django + PostgreSQL
-├── Interactive data visualisation dashboard
-└── Python · Django · JavaScript · PostgreSQL
-```
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Grade |
-|--------|------------|-------|
-| MSc Computer Science | Anglia Ruskin University, Cambridge | **Distinction — 74%** |
-| BTech Computer Science | GGSIPU, Delhi | **8.01 CGPA** |
-
----
-
 <div align="center">
 
 ```
